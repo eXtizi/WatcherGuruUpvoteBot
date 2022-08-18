@@ -51,3 +51,5 @@
 
 
 
+Credits https://github.com/eXtizi/Watcher-Guru-Upvote-Telegram-Based-Bot-
+
